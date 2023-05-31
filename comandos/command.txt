@@ -1,0 +1,202 @@
+    1  ls
+    2  pwd 
+    3  mkdir Clase 2
+    4  cd Clase 2
+    5  mkdir Clase2
+    6  cd Clase2
+    7  touch primerospasos.txt
+    8  touch archivoparaborrar.txt
+    9  rm archivoparaborrar.txt 
+   10  mkdir Carpeta1 Carpeta2
+   11  ls
+   12  cd Carpeta1
+   13  touch readme.txt
+   14  ls
+   15  rmdir Carpeta 2
+   16  rmdir carpeta2
+   17  rmdir Carpeta2
+   18  rm -r Carpeta1
+   19  rm -r Carpeta1/
+   20  cd ..
+   21  rmdir Carpeta2
+   22  ls
+   23  rmdir Carpeta1
+   24  rm -r Carpeta1
+   25  ls
+   26  mkdir Peliculas
+   27  cd peliculas
+   28  touch Terror.txt
+   29  CD ..
+   30  cd..
+   31  cd ..
+   32  ls
+   33  cd peliculas
+   34  ls
+   35  touch "Qué culpa tiene el niño 8".txt
+   36  ls
+   37  clean all
+   38  clean
+   39  clear
+   40  cd ../..
+   41  mkdir DH
+   42  cd DH
+   43  mkdir repaso_clase_1y2
+   44  cd repaso_clase_1y2/
+   45  mkdir historia_de_la_contabilidad
+   46  mkdir servidores
+   47  mkdir interfaces_de_usuarios
+   48  mkdir que_haremos_hoy infraestructura
+   49  ls
+   50  cd servidores
+   51  touch repaso
+   52  cp repaso historia_de_la_contabilidad
+   53  cd ..
+   54  ls
+   55  ls -r
+   56  ls -R
+   57  cd historia_de_la_contabilidad/
+   58  touch repaso
+   59  cd ..
+   60  cd infraestructura 
+   61  touch repaso
+   62  ls
+   63  cp repaso 
+   64  cp --help
+   65  cp repaso que_haremos_hoy/
+   66  ls
+   67  cd ..
+   68  ls -R
+   69  ls -1R
+   70  cd interfaces_de_usuario
+   71  ls
+   72  cd interfaces_de_usuarios/
+   73  touch repaso
+   74  cd ..
+   75  cd que_haremos_hoy/
+   76  touch repaso
+   77  cd ..
+   78  ls -1R
+   79  git --version
+   80  git init
+   81  git config --global user.name "zabdiel-silvestre"
+   82  git config --global user.email "zabdielreyes2326@gmail.com"
+   83  mkdir GIT
+   84  cd GIT
+   85  git init
+   86  touch app.js
+   87  git status
+   88  git add app.js
+   89  git status
+   90  touch app.js funciones.js array.js
+   91  ls
+   92  clear
+   93  cd ..
+   94  mkdir mercadoAbierto
+   95  cd mercadoAbierto/
+   96  git init
+   97  touch producto.js
+   98  git status
+   99  git add producto.js 
+  100  git status
+  101  git commit -m "mi primer commit"
+  102  git status
+  103  clear
+  104  git clone https://github.com/ZabdielSilvestre/Isai.git
+  105  git remove -v
+  106  git remote -v
+  107  git remote add origin https://github.com/ZabdielSilvestre/Isai.git
+  108  git remote -v
+  109  clear
+  110  git log
+  111  touch array.js app.js funciones.js 
+  112  git add .
+  113  git status
+  114  git add app.js
+  115  git status
+  116  git add.
+  117  git add .
+  118  git status
+  119  git add array.js funciones.js
+  120  git status
+  121  git commit 
+  122  git commit -m "Agregando los archivos"
+  123  git status
+  124  git log
+  125  git push origin main
+  126  git clone https://github.com/ZabdielSilvestre/Isai.git
+  127  git status
+  128  ls
+  129  cd isai
+  130  ls
+  131  git status
+  132  touch app.js
+  133  git status 
+  134  git add app.js
+  135  git status
+  136  clear
+  137  git status
+  138  git pull origin main
+  139  git status
+  140  git status
+  141  git commit -a
+  142  git pull origin main
+  143  clear
+  144  git init
+  145  git status
+  146  mkdir MPC
+  147  cd MPC
+  148  git status
+  149  cd ..
+  150  touch MPC.js
+  151  ls
+  152  cd MPC
+  153  git init
+  154  touch MPC.js
+  155  git add MPC.js 
+  156  git status
+  157  git commit 
+  158  git commit -m "Mi primer repositorio"
+  159  git status
+  160  git remote add origin https://github.com/ZabdielSilvestre/Mi-primer-repositorio.git
+  161  git satus
+  162  git status
+  163  git log
+  164  git push -u origin main
+  165  git log
+  166  git clone 
+  167  https://github.com/ZabdielSilvestre/Mi-primer-repositorio.git
+  168  git clone https://github.com/ZabdielSilvestre/Mi-primer-repositorio.git
+  169  cd Mi-primer-repositorio/
+  170  touch app.js
+  171  git status
+  172  git add app.js
+  173  git status
+  174  git commit -m "mi primer commit"
+  175  git status
+  176  git push -u "Segundo archivo subido"
+  177  git status
+  178  git push
+  179  git status
+  180  mkdir Actividades
+  181  cd Actividades/
+  182  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+  183  touch "Deportes de equipo"/Basquet "Deportes de mesa"/"Ping pong" "Deportes mentales"/Ajedrez.txt
+  184  ls -r
+  185  ls -a
+  186  ls
+  187  mv directorios
+  188  ls -R
+  189  rm "Deportes extremos"/
+  190  rm -r "Deportes extremos"
+  191  pwd
+  192  git init
+  193  git commit -m "Subiendo los archivos"
+  194  git add .
+  195  git commit -m "Subiendo los archivos"
+  196  git push origin main
+  197  git remote add origin https://github.com/ZabdielSilvestre/Practica-310523.git
+  198  git push origin main
+  199  mkdir comandos
+  200  touch comandos/command.txt
+  201  git add .
+  202  history > comandos/command.txt 
